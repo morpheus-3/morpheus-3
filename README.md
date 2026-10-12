@@ -7,14 +7,14 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gaurang-sharma-20a23b328">
+  <a href="https://www.linkedin.com/in/gaurang-sharma-bba163256">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.instagram.com/maverick_gaurang/">
     <img src="https://img.shields.io/badge/Instagram-@maverick__gaurang-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/gaurangsh30">
-    <img src="https://img.shields.io/badge/GitHub-gaurangsh30-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/morpheus-3">
+    <img src="https://img.shields.io/badge/GitHub-morpheus--3-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -308,7 +308,7 @@ I have also worked on **Generative AI research**, including presenting work on *
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/gaurang-sharma-20a23b328">
+<a href="https://www.linkedin.com/in/gaurang-sharma-bba163256">
 <img src="https://img.shields.io/badge/LinkedIn-Gaurang%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -316,8 +316,8 @@ I have also worked on **Generative AI research**, including presenting work on *
 <img src="https://img.shields.io/badge/Instagram-@maverick__gaurang-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://github.com/gaurangsh30">
-<img src="https://img.shields.io/badge/GitHub-gaurangsh30-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/morpheus-3">
+<img src="https://img.shields.io/badge/GitHub-morpheus--3-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
